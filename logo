@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am cryptolga on github.
+  * I am mytolga (https://keybase.io/mytolga) on keybase.
+  * I have a public key ASD7OJYo53bzqDXDAQgv_5k_ycU7V5K5b3wzMeOqfE4SlAo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fb389628e776f3a835c301082fff993fc9c53b5792b96f7c3331e3aa7c4e12940a",
+      "host": "keybase.io",
+      "kid": "0120fb389628e776f3a835c301082fff993fc9c53b5792b96f7c3331e3aa7c4e12940a",
+      "uid": "32335c654e8d834404c8f578f350a419",
+      "username": "mytolga"
+    },
+    "merkle_root": {
+      "ctime": 1713825858,
+      "hash": "5bca05af690126df0737f3012da453935b86711fa86cac0fcd9182e6cb609fea21bb23417a128e4b771fa74a494a55186104a255afb98871845ae1c7e680d6ea",
+      "hash_meta": "093ae0f703107e62015c4e8a0df6f376ddca6f1169f4731921c3ea10329e7d50",
+      "seqno": 25666745
+    },
+    "service": {
+      "entropy": "r76LCgWYXfp9vWdcwRYh6hTN",
+      "name": "github",
+      "username": "cryptolga"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1713825917,
+  "expire_in": 504576000,
+  "prev": "25e19ec8b5aeb34fda5431805554819630f05dab076ff691a80048fd58eebac0",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+
+with the key https://keybase.io/mytolga, yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+ziWKOd286g1wwEIL/+ZP8nFO1eSuW98MzHjqnxOEpQKp3BheWxvYWTESpcCBcQgJeGeyLWus0/aVDGAVVSBljDwXasHb/aRqABI/VjuusDEIORUjNznfRqf5c6gGQoM2F8jhqQXCDq2QDoXkPSWc8jqAgHCo3NpZ8RAilmmSaprpKjgE/DuA0NXV9tmkeiVTN2i/k8d9XeFGk/4nMXwPCRT1P9k8dKHluMcv+r0jeGf/rmNBP2wndVaAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILVxUeBHOPHrW38IkpNB4vxOms7SIXyOAhSQ6S8JFbqlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/mytolga
+
+### From the command line:
+
+Consider the https://keybase.io/download.
+
+bash
+# look me up
+keybase id mytolga
